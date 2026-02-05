@@ -11,7 +11,7 @@ The objective of this project is to show how modern DevOps teams **build, contai
 
 This project is explained step-by-step in a full practical video:
 
-🔗 https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+🔗 https://youtu.be/WwxSNIrW8bk
 
 Watching the video is highly recommended to understand the complete flow and decision-making behind the setup.
 
